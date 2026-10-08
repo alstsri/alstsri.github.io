@@ -4,3 +4,5 @@
 .button{display:inline-block;width:auto}
 
 #export,.button{display:inline-block;width:250px;max-width:100%}
+
+.brand{font-size:10px;letter-spacing:2px;text-transform:uppercase;color:#444444}
